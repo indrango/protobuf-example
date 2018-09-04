@@ -1,0 +1,7 @@
+/home/protobuf-example/cpp/build/CMakeFiles/rebuild_cache.dir
+/home/protobuf-example/cpp/build/CMakeFiles/edit_cache.dir
+/home/protobuf-example/cpp/build/CMakeFiles/reading_message.dir
+/home/protobuf-example/cpp/build/CMakeFiles/writing_message.dir
+/home/protobuf-example/cpp/build/proto/CMakeFiles/edit_cache.dir
+/home/protobuf-example/cpp/build/proto/CMakeFiles/rebuild_cache.dir
+/home/protobuf-example/cpp/build/proto/CMakeFiles/proto.dir
