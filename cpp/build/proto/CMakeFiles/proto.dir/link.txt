@@ -1,2 +1,0 @@
-/usr/bin/ar qc libproto.a  CMakeFiles/proto.dir/addressbook.pb.cc.o
-/usr/bin/ranlib libproto.a

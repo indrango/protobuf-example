@@ -1,1 +1,0 @@
-/usr/bin/c++   -g -Wall -Werror -std=c++11   CMakeFiles/writing_message.dir/writing_message.cc.o  -o writing_message -rdynamic proto/libproto.a /usr/local/lib/libprotobuf.so -lpthread -Wl,-rpath,/usr/local/lib 
